@@ -2,3 +2,4 @@ my first remote
 git push
 git fetch
 git pull
+nice learning gyal
